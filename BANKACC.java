@@ -14,6 +14,19 @@ public class BANKACC {
         this.balance = balance;
 
     }
+    void deposit(double amount){
+        balance = balance + amount;
+        System.out.println("total amount now is : " + balance);
+    }
+    void withdraw(double amount){
+        if(amount > balance){
+            System.out.println("balance nahi hai bhai aapake pass");
+        }
+        else{
+            balance = balance - amount;
+            System.out.println("aapne nikalne ke bad apke paise hai : " + balance);
+        }
+    }
     
     
 }
