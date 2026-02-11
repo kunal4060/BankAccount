@@ -5,7 +5,7 @@ public class BANKSYS {
     void createaccount(String name, String pancard, String aadharcard, double balance){
        accounts[count] = new BANKACC(name, pancard, aadharcard, balance);
        count++;
-       System.out.println("aapke acc ab hamare aur aapke ke bich me aaya hai ji");
+       System.out.println("aapke acc ab hamare aur aapke ke bich me aaya hai ji mithai khilaiye");
     }
     
    //koi iss auto correct ko band karo yrr
