@@ -27,6 +27,12 @@ public class BANKACC {
             System.out.println("aapne nikalne ke bad apke paise hai : " + balance);
         }
     }
+    void displaydetails(){
+        System.out.println("name : " + name);
+        System.out.println("pancard : " + pancard);
+        System.out.println("aadharcard : " + aadharcard);
+        System.out.println("balance : " + balance);
+    }
     
     
 }
