@@ -29,6 +29,7 @@ public class BANKACC {
             System.out.println("aapne nikalne ke bad apke paise hai : " + balance);
         }
     }
+    //custmer ke details dekhne ke liye ji
     void displaydetails(){
         System.out.println("name : " + name);
         System.out.println("pancard : " + pancard);
