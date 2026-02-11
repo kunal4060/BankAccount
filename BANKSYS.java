@@ -7,7 +7,7 @@ public class BANKSYS {
        count++;
        System.out.println("aapke acc ab hamare aur aapke ke bich me aaya hai ji");
     }
-    //koi iss auto correct ko band karo yrr
-   
+    
+   //koi iss auto correct ko band karo yrr
     
 }
