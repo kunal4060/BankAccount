@@ -21,8 +21,7 @@ public class MAIN {
             System.out.println("kitna paisa jama karna chahte ho ji");
             double balance = sc.nextDouble();
             bank.createaccount(name, pancard, aadharcard, balance);
-            //ji ki mkc
-            
+            //ji ki mka
 
         }
     }
