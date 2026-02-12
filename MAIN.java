@@ -10,6 +10,7 @@ public class MAIN {
         System.out.println("4. apne details dekh lo");
         Scanner sc = new Scanner(System.in);
         int option = sc.nextInt();
+
         
         if (option == 1) {
             System.out.println("apka naam kya hai ji");
@@ -22,6 +23,7 @@ public class MAIN {
             double balance = sc.nextDouble();
             bank.createaccount(name, pancard, aadharcard, balance);
             //ji ki mka
+            System.out.println("hi my name is kunal ugale");
 
         }
     }
