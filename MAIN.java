@@ -1,1 +1,13 @@
-//phirse karenge nayi shurvatke sath
+public class MAIN{
+  public static void main(String arg[]){
+
+
+
+
+
+
+
+
+
+  }
+}
